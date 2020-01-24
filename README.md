@@ -9,6 +9,30 @@ Harry is considered a fictional icon and audiences as one of the greatest litera
 
 ![image](https://www.emp-online.com/dw/image/v2/BBQV_PRD/on/demandware.static/-/Library-Sites-EMPSharedLibrary/default/dw1ac8394d/68188_CAT_HarryPotter02_neues_Format.jpg?sw=1400)
 
+## **Harry Potter Series**
 
-              
+1. Harry Potter and the Sorcerer's Stone,Book1
+2. Harry Potter and the Chamber Of Secrets,Book2
+3. Harry Potter and the Prisoner of Azkaban,Book3
+4. Harry Potter and the Goblet of Fire,Book4
+
+![image](https://tokybook.com/wp-content/uploads/harry-potter.jpg)
+
+## **"Harry Potter" Movie Facts**
+
+- The kids in the cast had to get casts of their teeth made.
+- Emma Watson might not have gotten the role of Hermione had it been up to her. 
+- Every letter to Harry were actually hand written-TWICE.
+- The trio's reaction to the great hall was real.
+
+![image](https://hips.hearstapps.com/sev.h-cdn.co/assets/15/35/980x490/landscape-1440716317-harry-potter-woah.jpg?resize=768:*)
+
+## References
+
+- [Harry ](https://www.emp-online.com/dw/image/v2/BBQV_PRD/on/demandware.static/-/Library-Sites-EMPSharedLibrary/default/dw1ac8394d/68188_CAT_HarryPotter02_neues_Format.jpg?sw=1400)
+- [Harry Series](https://tokybook.com/wp-content/uploads/harry-potter.jpg)
+- [Harry Movies](https://hips.hearstapps.com/sev.h-cdn.co/assets/15/35/980x490/landscape-1440716317-harry-potter-woah.jpg?resize=768:*)
+
+
+
 
