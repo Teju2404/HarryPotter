@@ -1,5 +1,3 @@
-# Module1-Web-Applications
-
 # HARRY JAMES POTTER
 
 Harry James Potter is the titular the titular protagonist of J.K.Rowling's Harry Potter series.
@@ -21,6 +19,13 @@ Harry is considered a fictional icon and audiences as one of the greatest litera
 ![image](https://tokybook.com/wp-content/uploads/harry-potter.jpg)
 
 (image taken from tokybook.com)
+
+## **Harry Potter Top Series**
+
+1. Harry Potter and the Order of Phoenix,Book5
+2. Harry Potter and the Half-Blood Prince,Book6
+3. Harry Potter and the Deathly Hallows,Book7
+4. Harry Potter and the Curse Child,Book8
 
 ## **"Harry Potter" Movie Facts**
 
