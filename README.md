@@ -1,7 +1,7 @@
 # HARRY JAMES POTTER
 
-Harry James Potter is the titular the titular protagonist of J.K.Rowling's Harry Potter series.
-The majority of the books plot covers seven years in the life of the orphan Harry,who,on his eleventh birthday,learns he is a wizard.
+Harry James Potter is the titular protagonist of J.K.Rowling's Harry Potter series.
+The majority of the books plot covers Seven years in the life of the orphan Harry,who,on his eleventh birthday,learns he is a wizard.
 Thus,he attends Hogwarts School of Witchcraft and Wizardry to practice magic.
 Harry is considered a fictional icon and audiences as one of the greatest literary and film characters of all time.
 
