@@ -18,6 +18,13 @@ Harry is considered a fictional icon and audiences as one of the greatest litera
 
 ![image](https://tokybook.com/wp-content/uploads/harry-potter.jpg)
 
+## **Harry Potter Top Series**
+
+1. Harry Potter and the Order of Phoenix,Book5
+2. Harry Potter and the Half-Blood Prince,Book6
+3. Harry Potter and the Deathly Hallows,Book7
+4. Harry Potter and the Curse Child,Book8
+
 ## **"Harry Potter" Movie Facts**
 
 - The kids in the cast had to get casts of their teeth made.
