@@ -1,5 +1,3 @@
-# Module1-Web-Applications
-
 # HARRY JAMES POTTER
 
 Harry James Potter is the titular the titular protagonist of J.K.Rowling's Harry Potter series.
