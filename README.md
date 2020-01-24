@@ -1,3 +1,5 @@
+# Module1-Web-Applications
+
 # HARRY JAMES POTTER
 
 Harry James Potter is the titular the titular protagonist of J.K.Rowling's Harry Potter series.
@@ -6,6 +8,8 @@ Thus,he attends Hogwarts School of Witchcraft and Wizardry to practice magic.
 Harry is considered a fictional icon and audiences as one of the greatest literary and film characters of all time.
 
 ![image](https://www.emp-online.com/dw/image/v2/BBQV_PRD/on/demandware.static/-/Library-Sites-EMPSharedLibrary/default/dw1ac8394d/68188_CAT_HarryPotter02_neues_Format.jpg?sw=1400)
+
+(image taken from emp-online.com)
 
 ## **Harry Potter Series**
 
@@ -16,12 +20,7 @@ Harry is considered a fictional icon and audiences as one of the greatest litera
 
 ![image](https://tokybook.com/wp-content/uploads/harry-potter.jpg)
 
-## **Harry Potter Top Series**
-
-1. Harry Potter and the Order of Phoenix,Book5
-2. Harry Potter and the Half-Blood Prince,Book6
-3. Harry Potter and the Deathly Hallows,Book7
-4. Harry Potter and the Curse Child,Book8
+(image taken from tokybook.com)
 
 ## **"Harry Potter" Movie Facts**
 
@@ -32,12 +31,13 @@ Harry is considered a fictional icon and audiences as one of the greatest litera
 
 ![image](https://hips.hearstapps.com/sev.h-cdn.co/assets/15/35/980x490/landscape-1440716317-harry-potter-woah.jpg?resize=768:*)
 
-## References
+(image taken from hearstapps.com)
+
+## **References**
 
 - [Harry ](https://www.emp-online.com/dw/image/v2/BBQV_PRD/on/demandware.static/-/Library-Sites-EMPSharedLibrary/default/dw1ac8394d/68188_CAT_HarryPotter02_neues_Format.jpg?sw=1400)
 - [Harry Series](https://tokybook.com/wp-content/uploads/harry-potter.jpg)
 - [Harry Movies](https://hips.hearstapps.com/sev.h-cdn.co/assets/15/35/980x490/landscape-1440716317-harry-potter-woah.jpg?resize=768:*)
-- [My Github Repo](https://github.com/Teju2404)
 
 
 
